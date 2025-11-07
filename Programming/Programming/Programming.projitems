@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{CA22AB22-4E7D-494A-B365-ADA61501E1C2}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Programming</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\README.txt" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\config" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\HEAD" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\description" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\index" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\COMMIT_EDITMSG" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\sourcetreeconfig" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\info\exclude" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\logs\HEAD" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\logs\refs\heads\main" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\commit-msg.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\pre-rebase.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\pre-commit.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\applypatch-msg.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\fsmonitor-watchman.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\pre-receive.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\prepare-commit-msg.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\post-update.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\pre-merge-commit.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\pre-applypatch.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\pre-push.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\update.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\hooks\push-to-checkout.sample" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\objects\9b\6ca0c06a2221dc9270aefca349c19cf17c6f68" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\objects\35\64e1cd0889a8bc491305e5daf90e39c25188d9" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\objects\02\7d18f1b06792c25c432ed81e94064375504fd6" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\objects\e4\3b0f988953ae3a84b00331d0ccf5f7d51cb3cf" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\objects\ed\556d2060fc0cbe2760429ac0c7b1525671f17d" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\objects\73\28a398e3c3e5817012467d82295e17966eac04" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\objects\7e\7c53c44e0582c17f84b0e09591415f8c600bdf" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\objects\dd\a4ad58ca1d35382613922e3c6b4410de8570c3" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\objects\23\bb1662ecedeaaa8d35119ec5f1391104624457" />
+    <None Include="$(MSBuildThisFileDirectory)ITshirt-cat\.git\refs\heads\main" />
+  </ItemGroup>
+</Project>
